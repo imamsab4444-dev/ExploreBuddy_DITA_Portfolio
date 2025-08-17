@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="accept_request_as_guide">
+    <title>Accept Request as a Guide</title>
+    <shortdesc>Respond to and accept a travler's request on <ph keyref="product-name"></ph></shortdesc>
+    <taskbody>
+        <prereq>
+            <p>You have verified guide profile.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Open the <uicontrol>Requests</uicontrol> tab.</cmd>
+            </step>
+            <step>
+                <cmd>Filter requests by category, adte or location if needed.</cmd>
+            </step>
+            <step>
+                <cmd>Tap on a request to view full details.</cmd>
+            </step>
+            <step>
+                <cmd>Send a proposal with your availability, rate and additional notes.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Accept</uicontrol> once you agree to the terms with the traveler.</cmd>
+            </step>
+        </steps>
+        <result>
+            <p>The traveler will be notified and can confirm your offer.</p>
+        </result>
+    </taskbody>
+</task>

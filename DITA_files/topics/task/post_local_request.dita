@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="post_local_request">
+    <title>Post a Local Request</title>
+    <shortdesc>Ask for local help or guidance through <ph keyref="product-name"></ph>.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>You must have active account and be signed in.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Tap <uicontrol>Post Reuest</uicontrol> on the home screen.</cmd>
+            </step>
+            <step>
+                <cmd>Choose a category for your request (e.g., Tour guide, Translation, Transportation).</cmd>
+            </step>
+            <step>
+                <cmd>Set your prefered language(s) for communication.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Post</uicontrol> to publish yor request.</cmd>
+            </step>
+        </steps>
+        <result>
+            <p>Your request will now be visible to nearby verified guides.</p>
+        </result>
+    </taskbody>
+</task>

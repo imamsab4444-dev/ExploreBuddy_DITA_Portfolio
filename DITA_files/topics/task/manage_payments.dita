@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="manage_payments">
+    <title>Manage Payments</title>
+    <shortdesc>Set up, view, and manage payments in <ph keyref="product-name"></ph>.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>You must have verified payment method.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Go to <uicontrol>Payments</uicontrol> from the main menu.</cmd>
+            </step>
+            <step>
+                <cmd>View your transaction history.</cmd>
+            </step>
+            <step>
+                <cmd>Add or remove payment methods.</cmd>
+            </step>
+            <step>
+                <cmd>Enable two-factor authentication for payment security.</cmd>
+            </step>
+            <step>
+                <cmd>Withdraw available funds to your bank account or preferred payout method.</cmd>
+            </step>
+        </steps>
+        <result>
+            <p>Your payment preferences are now updated and secure.</p>
+        </result>
+    </taskbody>
+</task>

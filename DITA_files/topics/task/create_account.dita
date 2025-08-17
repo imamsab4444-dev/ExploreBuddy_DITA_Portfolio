@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_account">
+    <title>Create an Account</title>
+    <shortdesc>Sign up for <ph keyref="product-name"/> to start connecting with locals and
+        travelers.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>You must have a valid email address or phone number.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Open the <ph keyref="product-name"/> app on your device.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Sign Up</uicontrol> on the home screen.</cmd>
+            </step>
+            <step>
+                <cmd>Select your prefered sign-up method:</cmd>
+                <choices>
+                    <choice>Email</choice>
+                    <choice>Phone Number</choice>
+                    <choice>Social Login (Google, Facebook, Apple)</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Enter your personal details as prompted.</cmd>
+            </step>
+            <step>
+                <cmd>Read and accept the <xref href="../../html/Terms%20of%20Service.html"
+                        format="html">Terms of Sevice</xref> and <xref
+                        href="../../html/Privacy%20Policy.html" format="html">Privacy
+                    Policy</xref>.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Create Account</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Verify your account:</cmd>
+                <choices>
+                    <choice>If you signed up with email, click the verification link sent to your
+                        inbox.</choice>
+                    <choice>If you signed up with phone number, enter the SMS code sent to your
+                        device.</choice>
+                </choices>
+            </step>
+        </steps>
+        <result>
+            <p>Your account is now active, and you can start exploring!</p>
+        </result>
+    </taskbody>
+</task>

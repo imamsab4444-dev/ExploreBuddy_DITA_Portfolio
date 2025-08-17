@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="update_profile">
+    <title>Update Your Profile</title>
+    <shortdesc>Edit your personal and professional details in <ph keyref="product-name">.</ph></shortdesc>
+    <taskbody>
+        <prereq>
+            <p>You must be signed in to update your profile.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Go to <uicontrol>Profile</uicontrol> from the navigation menu.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Edit Profile</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Update your personal details, profile photo and description.</cmd>
+            </step>
+            <step>
+                <cmd>For guides, update portfolio items, languages and service categories.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Save</uicontrol> to apply changes.</cmd>
+            </step>
+        </steps>
+        <result>
+            <p>Your updated profile is now visible to other users.</p>
+        </result>
+    </taskbody>
+</task>
