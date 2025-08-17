@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="intro_to_explorebuddy">
+    <title><ph keyref="product-name"/></title>
+    <shortdesc><ph keyref="product-name"/> connets newcomers and travelers with trusted local guides for 
+        on-the-ground help.
+    </shortdesc>
+    <conbody>
+        <p><ph keyref="product-name"/> is a community platform thats lets you post local requests (e.g., airport pickup,
+            translation help, neighborhood tours) and receive offers from verified locals.</p>
+        <section>
+            <title>Audience</title>
+            <p>Newcomers, travelers, and local guides who want to help others in thier city.</p>
+        </section>
+        <section>
+            <title>Key benefits</title>
+            <ul>
+                <li>Real human help, not just listings</li>
+                <li>Verified profiles and secure payments</li>
+                <li>Multilingual chat and in-app translation</li>
+                <li>Safety tools and 24/7 support</li>
+            </ul>
+            <fig>
+                <title><ph keyref="product-name"/> App Logo</title>
+                <p><image href="../../images/App_Logo.png" width="5cm" height="5cm"
+                        id="image_g1w_blr_3gc"/></p>
+            </fig>
+        </section>
+    </conbody>
+</concept>
