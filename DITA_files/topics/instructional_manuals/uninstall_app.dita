@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="uninstall_app">
+    <title>Uninstall <ph keyref="product-name"></ph></title>
+    <shortdesc>Remove the <ph keyref="product-name"></ph> app from the device.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Ensure you have backed up any important data from the app.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Locate the <ph keyref="product-name"></ph> app icon on your home screen.</cmd>
+            </step>
+            <step>
+                <cmd>Press and hold the app icon until options appear.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Uninstall</uicontrol> (Android) or <uicontrol>Remove App</uicontrol> (iOS).</cmd>
+            </step>
+            <step>
+                <cmd>Confirm the uninstallation when promted.</cmd>
+            </step>
+        </steps>
+        <result>
+            <p>The app is removed from your device.</p>
+        </result>
+    </taskbody>
+</task>

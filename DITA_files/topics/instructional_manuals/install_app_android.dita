@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="install_app_android">
+    <title>Install <ph keyref="product-name"></ph> on Android</title>
+    <shortdesc>Download and install the <ph keyref="product-name"></ph> app from Google Play Store.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>An Android device running version 8.0 or higher with internet access.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Open the <uicontrol>Google Play Store</uicontrol> on your device.</cmd>
+            </step>
+            <step>
+                <cmd>Search for "<ph keyref="product-name"></ph>.</cmd>
+            </step>
+            <step>
+                <cmd>Select the app from the search results.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Install</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Wait for the installation to complete, then tap <uicontrol>Open</uicontrol>.</cmd>
+            </step>
+        </steps>
+        <result>
+            <p>The app is now installed and ready to use.</p>
+        </result>
+    </taskbody>
+</task>

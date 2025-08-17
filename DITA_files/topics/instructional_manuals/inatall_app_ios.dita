@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="inatall_app_ios">
+    <title>Install <ph keyref="product-name"></ph> on iOS</title>
+    <shortdesc>Download and install the <ph keyref="product-name"></ph> app from Apple Play Store.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>An iPhone or iPad running iOS 14.0 or later with internet access.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Open the <uicontrol>App Store</uicontrol> on your device.</cmd>
+            </step>
+            <step>
+                <cmd>Tap the <uicontrol>Search</uicontrol> tab and enter "<ph keyref="product-name"></ph>".</cmd>
+            </step>
+            <step>
+                <cmd>Select the app from the search results.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Get</uicontrol> and confirm with your Apple ID or Face/Touch ID.</cmd>
+            </step>
+            <step>
+                <cmd>Once installation completes, tap <uicontrol>Open</uicontrol>.</cmd>
+            </step>
+        </steps>
+        <result>
+            <p>The app is now installed and ready to use.</p>
+        </result>
+    </taskbody>
+</task>
