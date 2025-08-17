@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="features_overview">
+    <title>Features Overview</title>
+    <shortdesc>Explore the key features that make <ph keyref="product-name"/> unique and helpul for 
+    both travelers and locals.</shortdesc>
+    <conbody>
+        <p><ph keyref="product-name"/> is packed with features designed to connect people quickly, safely 
+        and efficiently. Whether you're new in town or offering local expertise, these tools ensure a smooth experience.
+        </p>
+        <section>
+            <title>Core Features</title>
+            <ul>
+                <li>
+                    <b>Post Local Requests:</b> Create requests for help or services inspecific locations and categories.
+                </li>
+                <li><b>Guide Profiles:</b> View detailed porfolios with photos, ratings and language.</li>
+                <li><b>Mutilingual Chat:</b> Built-in translation to connect people across languages.</li>
+                <li><b>Secure Payments:</b> In-app payment protection for both parties.</li>
+                <li><b>Safety Tools:</b> SOS button, location sharing and verified IDs.</li>
+            </ul>
+        </section>
+        <section>
+            <title>Additional tools</title>
+            <ul>
+                <li>Bookmark favorite guides or requests</li>
+                <li>Push notifications for new matches</li>
+                <li>Profile badges for active contributors</li>
+                <li>Offline mode for low-connectivity areas</li>
+            </ul>
+            <fig>
+                <title>Mobile App UI preview</title>
+                <p><image href="../../images/Mobile_app_UI_preview.jpg" width="18cm" height="12cm"
+                        id="image_dz2_5mr_3gc"/></p>
+            </fig>
+        </section>
+    </conbody>
+</concept>

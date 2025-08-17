@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="safety_and_trust">
+    <title>Safety-and-Trust</title>
+    <shortdesc>How <ph keyref="product-name"/> ensure a secure and trustworthy experience for all users.</shortdesc>
+    <conbody>
+        <p>AT <ph keyref="product-name"/>, safety and trust are built into every feature. We belive that meaningful 
+            connections start with confidence in the people you meet and the platform you use.</p>
+        <section>
+            <title>User Verification</title>
+            <ul>
+                <li>Government ID verification for all guides</li>
+                <li>Email and phone number confirmation</li>
+                <li>Profile photo and background checks where applicable</li>
+            </ul>
+        </section>
+        <section>
+            <title>Secure Payments</title>
+            <p><ph keyref="product-name"/> uses in-app payment processing to protect both parties from fraud. 
+            Funds are only released when both sides confirm service completion.</p>
+            <note conref="../shared/payment_security_note.dita#payment_security_note/security_note"></note>
+        </section>
+        <section>
+            <title>Safety Tools</title>
+            <ul>
+                <li>24/7 support via chat or phone</li>
+                <li>SOS button that shares live location with emergency contacts</li>
+                <li>In-app reporting for suspicious behavior</li>
+            </ul>
+        </section>
+        <section>
+            <title>Community Trust</title>
+            <ul>
+                <li>Ratings and reviews after each service</li>
+                <li>Badge system for top-rated guides</li>
+                <li>Publicly visible response rates</li>
+            </ul>
+        </section>
+    </conbody>
+</concept>
