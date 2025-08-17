@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="release_v1_1">
+    <title>Release Notes - version 1.1</title>
+    <shortdesc>Feature updates and bug fixes.</shortdesc>
+    <refbody>
+        <section>
+            <title>Release Date</title>
+            <p>March 15, 2025</p>
+        </section>
+        <section>
+            <title>New Features</title>
+            <ul>
+                <li>Added ush notifications for Android and iOS.</li>
+                <li>Introduced multilingual chat (English, Spanish, Hindi).</li>
+                <li>Improved profile verification process.</li>
+            </ul>
+        </section>
+        <section>
+            <title>Bug Fixes</title>
+            <ul>
+                <li>Fixed payment gateway timeout issue.</li>
+                <li>Released location detection delays.</li>
+            </ul>
+        </section>
+        <section>
+            <title>Known Issues</title>
+            <ul>
+                <li>Occasional delay in push notifications during peak hours.</li>
+            </ul>
+        </section>
+    </refbody>
+</reference>

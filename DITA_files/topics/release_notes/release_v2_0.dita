@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="release_v2_0">
+    <title>Release Notes - Version 2.0</title>
+    <shortdesc>Major frature update and UI redesign.</shortdesc>
+    <refbody>
+        <section>
+            <title>Release Date</title>
+            <p>July 30, 2025</p>
+        </section>
+        <section>
+            <title>New Features</title>
+            <ul>
+                <li>Complete UI redesign for easier navigation.</li>
+                <li>Added Explore Map - browse local offers visually.</li>
+                <li>In-app voice call between guides and travelers.</li>
+                <li>Expanded language support to 12 language.</li>
+            </ul>
+        </section>
+        <section>
+            <title>Bug Fixes</title>
+            <ul>
+                <li>Resolved occasional app crashes when uploading large profile photos.</li>
+                <li>Fixed currency display issue in payment history.</li>
+            </ul>
+        </section>
+        <section>
+            <title>Known Issues</title>
+            <ul>
+                <li>Minor lag when loading Explore Map in ;ow network conditions.</li>
+            </ul>
+        </section>
+    </refbody>
+</reference>

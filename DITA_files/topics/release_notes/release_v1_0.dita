@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="release_v1_0">
+    <title>Release Notes - Version 1.0</title>
+    <shortdesc>Initial launch of <ph keyref="product-name">.</ph></shortdesc>
+    <refbody>
+        <section>
+            <title>Release Date</title>
+            <p>January 10, 2025</p>
+        </section>
+        <section>
+            <title>New Features</title>
+            <ul>
+                <li>Launched core request posting and guide offer system.</li>
+                <li>Profile creation with basic verification.</li>
+                <li>Secure in-app messaging.</li>
+                <li>Integrated payments via credit/debit cards.</li>
+            </ul>
+        </section>
+        <section>
+            <title>Known Issues</title>
+            <ul>
+                <li>Limited language support (English only).</li>
+                <li>No push notification on iOS.</li>
+            </ul>
+        </section>
+    </refbody>
+</reference>
