@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="privacy_policy_note">
+    <title>Privacy Policy Note</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <note id="legal_note">
+            By using our services, you consent to data processing as outlined in this Privacy Policy.
+        </note>
+    </conbody>
+</concept>

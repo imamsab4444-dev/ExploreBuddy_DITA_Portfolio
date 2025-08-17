@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="payment_security_note">
+    <title>Payment Security Note</title>
+    <conbody>
+        <note id="security_note">
+            Always use encrypted payment gateways to protect customer financial data.
+        </note>
+    </conbody>
+</concept>
