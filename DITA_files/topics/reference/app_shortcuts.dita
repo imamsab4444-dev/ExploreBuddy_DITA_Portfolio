@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="app_shortcuts">
+    <title>App Shortcuts</title>
+    <shortdesc>Quick action and gestures to use <ph keyref="product-name"> more efficiently.</ph></shortdesc>
+    <refbody> 
+        <section>
+            <simpletable>
+                <sthead>
+                    <stentry>Shortcut</stentry>
+                    <stentry>Action</stentry>
+                </sthead>
+                <strow>
+                    <stentry>Double-tap home icon</stentry>
+                    <stentry>Go directly to "Post Request" screen.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Swipe left on a request</stentry>
+                    <stentry>Quickly message the requester.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Press and hold profile icon</stentry>
+                    <stentry>Open profile settings menu.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Shake phone</stentry>
+                    <stentry>Report a problem instantly.</stentry>
+                </strow>
+            </simpletable>
+        </section>
+    </refbody>
+</reference>

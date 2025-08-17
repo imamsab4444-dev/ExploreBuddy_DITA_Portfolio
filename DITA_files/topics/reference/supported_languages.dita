@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="supported_languages">
+    <title>Supported Languages</title>
+    <shortdesc>ExploreBuddy supports mltiple language to make communication easier.</shortdesc>
+    <refbody>
+        <section>
+            <p>The app currently supports the following languages for interface and chat translation:</p>
+            <ul>
+                <li>English</li>
+                <li>Spanish</li>
+                <li>French</li>
+                <li>German</li>
+                <li>Italian</li>
+                <li>Portuguese</li>
+                <li>Hindi</li>
+                <li>Arabic</li>
+                <li>Japanese</li>
+                <li>Korean</li>
+                <li>Chinese (Simplified)</li>
+            </ul>
+            <p>More languages are added periodically basedon user feedback and demand.</p>
+        </section>
+    </refbody>
+</reference>

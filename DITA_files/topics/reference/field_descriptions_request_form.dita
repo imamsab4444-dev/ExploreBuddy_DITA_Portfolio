@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="field_descriptions_request_form">
+    <title>Field Descriptions - Request Form</title>
+    <shortdesc>Descriptions of each field when posting a request in <ph keyref="product-name"></ph>.</shortdesc>
+    <refbody>
+        <section>
+            <simpletable>
+                <sthead>
+                    <stentry>Field</stentry>
+                    <stentry>Description</stentry>
+                    <stentry>Required</stentry>
+                </sthead>
+                <strow>
+                    <stentry>Category</stentry>
+                    <stentry>Type of help or service needed (e.g., Tour, Translation).</stentry>
+                    <stentry>Yes</stentry>
+                </strow>
+                <strow>
+                    <stentry>Location</stentry>
+                    <stentry>The city or area where the service is required.</stentry>
+                    <stentry>Yes</stentry>
+                </strow>
+                <strow>
+                    <stentry>Date and Time</stentry>
+                    <stentry>When the service is needed.</stentry>
+                    <stentry>Yes</stentry>
+                </strow>
+                <strow>
+                    <stentry>Language</stentry>
+                    <stentry>Preferred language for communication.</stentry>
+                    <stentry>No</stentry>
+                </strow>
+                <strow>
+                    <stentry>Budget</stentry>
+                    <stentry>Your offered payment range.</stentry>
+                    <stentry>No</stentry>
+                </strow>
+                <strow>
+                    <stentry>Description</stentry>
+                    <stentry>Additional details about your request.</stentry>
+                    <stentry>No</stentry>
+                </strow>
+            </simpletable>
+        </section>
+    </refbody>
+</reference>

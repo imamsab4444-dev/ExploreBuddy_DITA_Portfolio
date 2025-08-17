@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="pricing_tiers">
+    <title>Pricing Tiers</title>
+    <shortdesc>Subscription plans and their features.</shortdesc>
+    <refbody>
+        <section>
+            <simpletable>
+                <sthead>
+                    <stentry>Plan</stentry>
+                    <stentry>Monthly Price</stentry>
+                    <stentry>Features</stentry>
+                </sthead>
+                <strow>
+                    <stentry>Free</stentry>
+                    <stentry>$0</stentry>
+                    <stentry>Basic access, limited requests, basic chat.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Pro</stentry>
+                    <stentry>$9.99</stentry>
+                    <stentry>Unlimited requests, premium chat, verified badge.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Business</stentry>
+                    <stentry>$19.99</stentry>
+                    <stentry>Team accounts, analytics, priority support.</stentry>
+                </strow>
+            </simpletable>
+        </section>
+    </refbody>
+</reference>
