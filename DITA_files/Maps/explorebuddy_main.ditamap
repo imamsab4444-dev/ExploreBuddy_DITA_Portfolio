@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="explorebuddy_main">
+    <title>Explorebuddy Documentation</title>
+    
+    <!-- Global key definitions -->
+    <keydef keys="product-name">
+        <topicmeta>
+            <keywords>
+                <keyword>ExploreBuddy</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    <!-- Include submaps -->
+    <mapref href="user_guide_map.ditamap" format="ditamap"/>
+    <mapref href="troubleshooting_map.ditamap" format="ditamap"/>
+    <mapref href="release_notes_map.ditamap" format="ditamap"/>
+    <mapref href="instruction_manual_map.ditamap" format="ditamap"/> 
+</map>

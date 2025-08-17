@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>user_guide_map</title>
+    <topicref href="../topics/concept/intro_to_explorebuddy.dita"/>
+    <topicref href="../topics/concept/features_overview.dita"/>
+    <topicref href="../topics/concept/safety_and_trust.dita"/>
+    <topicref href="../topics/concept/privacy_policy.dita"/>
+    
+    <topicref href="../topics/task/create_account.dita"/>
+    <topicref href="../topics/task/post_local_request.dita"/>
+    <topicref href="../topics/task/accept_request_as_guide.dita"/>
+    <topicref href="../topics/task/update_profile.dita"/>
+    <topicref href="../topics/task/manage_payments.dita"/>
+</map>

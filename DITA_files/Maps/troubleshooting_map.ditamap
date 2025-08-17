@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Troubleshooting Guide</title>
+    <topicref href="../topics/troubleshooting/cannot_login.dita"/>
+    <topicref href="../topics/troubleshooting/payment_failure.dita"/>
+    <topicref href="../topics/troubleshooting/guide_not_responding.dita"/>
+    <topicref href="../topics/troubleshooting/location_not_detected.dita"/>
+</map>
