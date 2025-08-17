@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="cannot_login">
+    <title>Cannot Log In</title>
+    <shortdesc>If you are unable to log in to <ph keyref="product-name">, follow these steps</ph></shortdesc>
+    <troublebody>
+        <condition>
+            <title>Applies to all platforms (Android, iOS, Web)</title>
+            <p>You recive an error message or the app fails to load after entering your credentils.</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>Incorrect username/password, poor internet connection, or dissabled account.</p>
+            </cause>
+            <remedy>
+                <title>Remedy</title>
+                <responsibleParty></responsibleParty>
+                <steps>
+                    <step>
+                        <cmd>Check that your username and password are correct.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Ensure you have a stable internet connection.</cmd>
+                    </step>
+                    <step>
+                        <cmd>If you forgot your password, use the <uicontrol>Forgot Password</uicontrol> option to reset it.</cmd>
+                    </step>
+                    <step>
+                        <cmd>If the problem persists, contact <ph keyref="product-name"> support.</ph></cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

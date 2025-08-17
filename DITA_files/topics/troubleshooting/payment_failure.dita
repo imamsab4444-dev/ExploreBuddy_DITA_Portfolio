@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="payment_failure">
+    <title>Payment Failure</title>
+    <shortdesc>What to do if your payment for a booking or subscription fails.</shortdesc>
+    <troublebody>
+        <condition>
+            <title>Applies to all platforms and payment methods.</title>
+            <p>You see a payment error message or transction is declined.</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>Invalid payment detail, insufficient funds, or payment gateway downtime.</p>
+            </cause>
+            <remedy>
+                <title>Remedy</title>
+                <responsibleParty></responsibleParty>
+                <steps>
+                    <step>
+                        <cmd>Verify your card or payment account details.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Ensure you have sufficient funds or credit available.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Try a different payment method if possible.</cmd>
+                    </step>
+                    <step>
+                        <cmd>If the issue continues, contact your bank and inform <ph keyref="product-name"> support.</ph></cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

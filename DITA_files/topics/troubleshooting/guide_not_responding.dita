@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="guide_not_responding">
+    <title>Guide Not Responding</title>
+    <shortdesc>Steps to take if your booked guidedoes not reply to messages or calls.</shortdesc>
+    <troublebody>
+        <condition>
+            <title>Applies to all bookings within the app.</title>
+            <p>Your guide has not replied within the expected time frame.</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>The guide may be unavailable, facing technical issues, or not checking messages.</p>
+            </cause>
+            <remedy>
+                <title>Remedy</title>
+                <responsibleParty></responsibleParty>
+                <steps>
+                    <step>
+                        <cmd>Send a polite reminder message through the app chat.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Check the guide's last active status on their profile.</cmd>
+                    </step>
+                    <step>
+                        <cmd>If urgent, contact <ph keyref="product-name"></ph> support to request an alternative guide.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Cancel the booking if no response is received and request a refund if applicable.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

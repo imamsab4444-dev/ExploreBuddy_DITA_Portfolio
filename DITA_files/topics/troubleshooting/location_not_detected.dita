@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="location_not_detected">
+    <title>Location Not Detected</title>
+    <shortdesc>If the app cannot detect your location, try the following steps.</shortdesc>
+    <troublebody>
+        <condition>
+            <title>Applies to mobile devices with GPS capabilities.</title>
+            <p>The app shows "Location unavailable" or does not display your correct location.</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>Location services disabled, GPS signal blocked, or app permissions not granted.</p>
+            </cause>
+            <remedy>
+                <title>Remedy</title>
+                <responsibleParty></responsibleParty>
+                <steps>
+                    <step>
+                        <cmd>Ensure location services are enabled on your device.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Grant location permissions to <ph keyref="product-name"></ph> in your device settings.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Move to an open area to improve GPS signal reception.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Restart the app and try again.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>
