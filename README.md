@@ -31,3 +31,20 @@ Note:
 - This content is fictional and for demonstration purposes only.
 - You can customize and expand topics to match real application details.
 - Ensure all new topics follow DITA best practices for topic type, element usage and metadata.
+---
+
+## 🚀 Tools & Technologies Used
+
+- **DITA XML** for structured authoring
+- **Oxygen XML Editor** for topic creation and publishing
+- **DITA Maps** for organizing and linking content
+- **HTML5 & PDF** outputs generated via DITA Open Toolkit
+
+---
+
+## 📬 Contact
+
+If you’d like to discuss my technical writing or DITA expertise:  
+**Name:** Imamsab Nadaf  
+**Email:** *imamsab4444@gmail.com*  
+**LinkedIn:** [https://www.linkedin.com/in/imamsab-nadaf-83a30a197]
